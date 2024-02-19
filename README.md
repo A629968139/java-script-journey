@@ -1,2 +1,2 @@
-# java-script-journey
-My journey start in java script
+# Understanding Git-hub
+my journey as a begginer in github.
